@@ -1,0 +1,260 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+li {
+	list-style: none;
+}
+.logo {
+	padding-top: 30px;
+	padding-left: 50px;
+}
+li a {
+	color: black;
+	margin: 10px;
+}
+li a:hover {
+	color: black;
+}
+ul {
+  position: relative;
+  display: flex;
+  padding-top: 60px;
+  flex: right;
+}
+header {
+	padding-bottom: 40px;
+}
+.header {
+	height: 140px;
+	background-color: white;
+	width:100%;
+	position:fixed;
+	top:0;
+	z-index:1000;
+}
+.one-li {
+	padding-left: 50px;
+}
+.first-section {
+	padding-top: 150px;
+	background-image: url(moren-hsu-359121-unsplash.jpg);
+	background: opacity: 0.5;
+	background-size: cover;
+	height: 600px;
+}
+h1 {
+	line-height: 60%;
+}
+.text {
+	color: white;
+	text-align: center;
+	padding-top: 100px;
+}
+.h5 {
+	padding-top: 30px;
+	font-family: serif;
+}
+i {
+	font-size: 1.2em;
+}
+.one_btn {
+	padding-left: 30px;
+}
+.icon {
+	font-size: 2.8em;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	padding-bottom: 80px;
+}
+.second-section {
+	padding-top: 150px;
+	height: 700px;
+}
+.first-block {
+	float: left;
+	width: 50%;
+}
+.second-block {
+	float: right;
+	width: 50%;
+}
+.text-p {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	padding-bottom: 25px;
+}
+.one-text,.two-text {
+	padding-top: 40px;
+}
+.third-section {
+	margin: 0px;
+	padding: 0px;
+}
+.left-block {
+	background-color: #F5F5F5;
+	height: 420px;
+	width: 600px;
+}
+.text-left {
+	font-family: serif;
+	padding-top: 40px;
+	text-align: center;
+}
+.h4 {
+	font-family: system-ui;
+	padding-top: 40px;
+	text-align: center;	
+	margin: 50px;
+}
+.p {
+	margin-left: 40px;
+	font-family: system-ui;
+}
+.forth-section {
+	padding-top: 200px;
+}
+.first-item{
+	height: 300px;
+	background-color: white;
+	padding: 0px;
+	margin: 0px;
+}
+.second-item {
+	padding-top: 40px;
+	height: 300px;
+	background-color: white;
+}
+.third-item {
+	height: 300px;
+	padding-top: 40px;
+	background-color: white;
+
+}
+.first-foto {
+	background-image: url(baim-hanif-89800-unsplash.jpg);
+	height: 300px;
+	float: left;
+	width: 50%;
+	background-size: cover;
+	border: 1px solid silver;
+	border-right: none;
+}
+.first-text {
+	float: right;
+	width: 50%;
+	height: 300px;
+	text-align: center;
+	background-color: white;
+	border: 1px solid silver;
+	border-left: none;
+}
+.second-foto {
+	background-image: url(element5-digital-352046-unsplash.jpg);
+	height: 300px;
+	float: left;
+	width: 50%;
+	background-size: cover;
+	border: 1px solid silver;
+	border-right: none;
+}
+.second-text {
+	float: right;
+	width: 50%;
+	height: 300px;
+	text-align: center;
+	background-color: white;
+	border: 1px solid silver;
+	border-left: none;
+}
+.third-foto {
+	background-image: url(chuttersnap-193778-unsplash.jpg);
+	height: 300px;
+	float: left;
+	width: 50%;
+	background-size: cover;
+	border: 1px solid silver;
+	border-right: none;
+}
+.third-text {
+	float: right;
+	width: 50%;
+	height: 300px;
+	text-align: center;
+	background-color: white;
+	border: 1px solid silver;
+	border-left: none;
+}
+h4 {
+	padding-top: 10px;
+}
+#button {
+	margin-top: 40px;
+}
+.block-text {
+	padding-top: 50px;
+}
+.puk {
+	padding-top: 40px;
+}
+.contacts {
+height: 450px;
+text-align: center;
+}
+.sms {
+height: 450px;
+}
+
+#name {
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#email {
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#phone {
+width: 611px;
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#adress {
+width: 611px;
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#tema {
+width: 611px;
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#text {
+height: 150px;
+width: 611px;
+border: none;
+border-bottom: 1px solid black;
+border-radius: 0;
+}
+#two_btn {
+border: none;
+margin-left: 250px;
+}
+.footer {
+padding-top: 200px;
+
+}
+.product {
+	padding-left: 130px;
+	padding-top: 210px;
+	height: 10px;
+	width: 500px;
+}
